@@ -1,2 +1,2 @@
 # sallyResume
- Sally resume exercise for react jsx
+ Sally's resume as an exercise in jsx and react
